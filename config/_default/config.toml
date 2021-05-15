@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://lobotech.io/"
+baseURL = "https://lobotech.io"
 title = "Xpress Executive Services"
 theme = "corrlinker-site"
 # post pagination
