@@ -1,0 +1,60 @@
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+# [[main]]
+# name = "Blog"
+# url = "blog"
+# weight = 2
+
+[[main]]
+name = "Precios"
+url = "pricing"
+weight = 2
+
+[[main]]
+name = "Contacto"
+url = "contact"
+weight = 3
+
+[[main]]
+name = "Preguntas"
+url = "faq"
+weight = 4
+
+# footer menu left
+[[footer_left]]
+name = "Sobre Nosotros"
+url = "#"
+
+[[footer_left]]
+name = "Inicio Rápido"
+url = "#"
+
+# footer menu middle
+[[footer_middle]]
+name = "Precios"
+url = "pricing"
+
+[[footer_middle]]
+name = "Plataforma"
+url = "#"
+
+[[footer_middle]]
+name = "Características"
+url = "#"
+
+# footer menu right
+[[footer_right]]
+name = "Política De Privacidad"
+url = "privacy-policy"
+
+[[footer_right]]
+name = "Términos & Condiciones"
+url = "terms-conditions"
+
+[[footer_right]]
+name = "Preguntas Más Frecuentes"
+url = "faq"
