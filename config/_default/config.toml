@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://lobotech.io"
+baseURL = "https://corrlinker.netlify.app"
 title = "Xpress Executive Services"
 # post pagination
 paginate = "3"
